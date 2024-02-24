@@ -1229,7 +1229,7 @@ main {
   padding: 0.2rem 2rem;
   border-radius: 25px;
   width: fit-content;
-  border: solid 1px black;
+  border: solid 1px var(--color-black);
   margin: 0.4rem 0;
   text-align: center;
   align-items: center;

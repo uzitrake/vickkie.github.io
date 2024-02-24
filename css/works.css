@@ -130,11 +130,6 @@ a:focus-visible {
   font-size: clamp(2rem, 8vw, 9rem);
 }
 
-.heading > span:nth-child(2) {
-  margin-top: -2vw;
-  text-transform: lowercase;
-}
-
 .item {
   margin: 15vh 0 20vh;
 }
